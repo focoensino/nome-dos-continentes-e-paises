@@ -1,0 +1,29 @@
+*{
+  list-style:none;
+}
+body{
+  background-color:#39B7E5;
+  
+  text-align:center;
+
+
+}
+
+
+h1{
+  
+    color:#6E6E7E;
+
+    border:2px solid black; 
+    border-color:#6E6E7E;
+    padding:10px;
+
+
+
+
+}
+
+#continente1{
+color:#6E6E7E;       
+
+}
